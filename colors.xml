@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- 常用透明度颜色(百分百表示的是不透明度) -->
+    <!-- 95%白色 -->
+    <color name="c_F2FFFFFF">#F2FFFFFF</color>
+    <!-- 90%白色 -->
+    <color name="c_E6FFFFFF">#E6FFFFFF</color>
+    <!-- 85%白色 -->
+    <color name="c_D9FFFFFF">#D9FFFFFF</color>
+    <!-- 80%白色 -->
+    <color name="c_CCFFFFFF">#CCFFFFFF</color>
+    <!-- 75%白色 -->
+    <color name="c_BFFFFFFF">#BFFFFFFF</color>
+    <!-- 70%白色 -->
+    <color name="c_B3FFFFFF">#B3FFFFFF</color>
+    <!-- 65%白色 -->
+    <color name="c_A6FFFFFF">#A6FFFFFF</color>
+    <!-- 60%白色 -->
+    <color name="c_99FFFFFF">#99FFFFFF</color>
+    <!-- 55%白色 -->
+    <color name="c_8CFFFFFF">#8CFFFFFF</color>
+    <!-- 50%白色 -->
+    <color name="c_80FFFFFF">#80FFFFFF</color>
+    <!-- 45%白色 -->
+    <color name="c_73FFFFFF">#73FFFFFF</color>
+    <!-- 40%白色 -->
+    <color name="c_66FFFFFF">#66FFFFFF</color>
+    <!-- 35%白色 -->
+    <color name="c_59FFFFFF">#59FFFFFF</color>
+    <!-- 30%白色 -->
+    <color name="c_4DFFFFFF">#4DFFFFFF</color>
+    <!-- 25%白色 -->
+    <color name="c_40FFFFFF">#40FFFFFF</color>
+    <!-- 20%白色 -->
+    <color name="c_33FFFFFF">#33FFFFFF</color>
+    <!-- 15%白色 -->
+    <color name="c_26FFFFFF">#26FFFFFF</color>
+    <!-- 10%白色 -->
+    <color name="c_1AFFFFFF">#1AFFFFFF</color>
+    <!-- 5%白色 -->
+    <color name="c_0DFFFFFF">#0DFFFFFF</color>
+
+    <!-- 95%黑色 -->
+    <color name="c_F2000000">#F2000000</color>
+    <!-- 90%黑色 -->
+    <color name="c_E6000000">#E6000000</color>
+    <!-- 85%黑色 -->
+    <color name="c_D9000000">#D9000000</color>
+    <!-- 80%黑色 -->
+    <color name="c_CC000000">#CC000000</color>
+    <!-- 75%黑色 -->
+    <color name="c_BF000000">#BF000000</color>
+    <!-- 70%黑色 -->
+    <color name="c_B3000000">#B3000000</color>
+    <!-- 65%黑色 -->
+    <color name=“c_A6000000">#A6000000</color>
+    <!-- 60%黑色 -->
+    <color name="c_99000000">#99000000</color>
+    <!-- 55%黑色 -->
+    <color name="c_8C000000">#8C000000</color>
+    <!-- 50%黑色 -->
+    <color name="c_80000000">#80000000</color>
+    <!-- 45%黑色 -->
+    <color name=“c_73000000”>#73000000</color>
+    <!-- 40%黑色 -->
+    <color name="c_66000000">#66000000</color>
+    <!-- 35%黑色 -->
+    <color name=“c_59000000”>#59000000</color>
+    <!-- 30%黑色 -->
+    <color name="c_4D000000">#4D000000</color>
+    <!-- 25%黑色 -->
+    <color name=“c_40000000”>#40000000</color>
+    <!-- 20%黑色 -->
+    <color name="c_33000000">#33000000</color>
+    <!-- 15%黑色 -->
+    <color name=“c_26000000”>#26000000</color>
+    <!-- 10%黑色 -->
+    <color name=“c_1A000000”>#1A000000</color>
+    <!-- 5%黑色 -->
+    <color name=“c_0D000000”>#0D000000</color>
+
+</resources>
